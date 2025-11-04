@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    background-image: url('/img/cine.jpg');
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 5;
+}
